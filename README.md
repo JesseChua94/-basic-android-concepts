@@ -8,3 +8,4 @@ Activities, buttons, moving from activities, displaying the current time from a 
 labelling buttons, activity bar, themes.
 
 Some of the changes overlapped so some functions may not work or be apparent.
+This is pretty much just rough work for my introduction app.
