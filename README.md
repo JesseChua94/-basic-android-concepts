@@ -1,7 +1,7 @@
-# -basic-android-concepts
-Getting familiar with Android Studio and a few basic concepts
+# Basic-Android-Features
+Getting familiar with Android Studio and implementing a few basic features.
 
-Some basic concepts I was playing around with was:
+Some basic features I was playing around with was:
 Activities, buttons, moving from activities, displaying the current time from a button,
 labelling buttons, activity bar, themes.
 
